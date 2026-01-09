@@ -22,12 +22,11 @@ repository: [![Open In Colab](https://colab.research.google.com/assets/colab-bad
 
 ## The challenges
 
-### Track 1 - 
-Will be revealed durting the kick-off
+### Track 1 - Personalized mechanical ventilation
+We all know mechanical ventilation is life saving but also potentially lung damaging. Are our current standard settings right for everyone? Can you predict how a given combination of PEEP, FiO2, tidal volume and mode will affect an individual patient, or do some benefit much more than others? Dive into real ICU data to untangle these relationships and get closer to truly personalized mechanical ventilation.
 
-### Track 2 - 
-Will be revealed durting the kick-off
-
+### Track 2 - Deterioration and stabilisation
+Low blood pressure, desaturation, rising lactate, and low pH are key signs of deterioration that we want to predict early. Their causes, and therefore the best next steps, differ across patients. Can you forecast impending deterioration and estimate the likely impact of actions such as fluids, vasoactive drugs, and ventilator or oxygen setting changes? Choose a clinical scenario and a short-term (minutes to hours) or long-term (days) prediction window, and ideally make it actionable with expected response trajectories and recommendations on what to try next.
 
 ## Troubleshooting
 
